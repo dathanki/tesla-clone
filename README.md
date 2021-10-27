@@ -1,6 +1,6 @@
 # Live Deployment
 
-This project was deployed with [Firebase]()
+This project was deployed with [Netlify](https://blissful-tesla-clone.netlify.app/)
 
 # Technologies used
 
